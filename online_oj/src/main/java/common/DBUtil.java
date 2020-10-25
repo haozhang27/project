@@ -21,13 +21,8 @@ public class DBUtil {
 
     private static final String USERNAME = "root";
 
-    private static final String PASSWORD = "Love0water.";
+    private static final String PASSWORD = "";
 
-//    private static final String URL = "jdbc:mysql://127.0.0.1:3306/online_oj?characterEncoding=utf8&useSSL=true";
-//
-//    private static final String USERNAME = "root";
-//
-//    private static final String PASSWORD = "love=water";
 
     private static DataSource dataSource = null;
 
