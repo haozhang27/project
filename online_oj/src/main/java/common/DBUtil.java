@@ -23,7 +23,6 @@ public class DBUtil {
 
     private static final String PASSWORD = "";
 
-
     private static DataSource dataSource = null;
 
     public static DataSource getDataSource() {
